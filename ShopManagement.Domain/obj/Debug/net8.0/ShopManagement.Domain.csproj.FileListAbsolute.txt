@@ -15,3 +15,21 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Domain\o
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Domain\bin\Debug\net8.0\ShopManagment.Contracts.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Domain\bin\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\ShopManagment.Contracts.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\bin\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopMana.2E6A1FF6.Up2Date
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\refint\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll

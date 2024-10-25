@@ -12,7 +12,6 @@ namespace ShopManagenment.EFCore.Mapping
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Name).HasMaxLength(255).IsRequired();
             builder.Property(x => x.Description).HasMaxLength(255).IsRequired();
-            builder.Property(x => x.Price).HasMaxLength(255).IsRequired();
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {}
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj": {
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj",
+        "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj",
         "projectName": "Framwork",
-        "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj",
-        "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\obj\\",
+        "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj",
+        "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\obj\\",
+        "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,11 +96,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj": {
-                "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj"
+              "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj": {
+                "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj"
               },
-              "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj": {
-                "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj"
+              "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj": {
+                "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj"
               }
             }
           }
@@ -135,21 +135,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj",
+        "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj",
         "projectName": "ShopManagenment.EFCore",
-        "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj",
-        "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\obj\\",
+        "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj",
+        "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,8 +164,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -226,21 +226,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj": {
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
+        "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
         "projectName": "ShopManagment.Contracts",
-        "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
-        "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\obj\\",
+        "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
+        "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -287,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

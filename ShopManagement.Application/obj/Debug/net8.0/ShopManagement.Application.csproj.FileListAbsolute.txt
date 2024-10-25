@@ -17,3 +17,23 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Applicat
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Application\obj\Debug\net8.0\refint\ShopManagement.Application.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagement.Application\obj\Debug\net8.0\ref\ShopManagement.Application.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagement.Application.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagement.Application.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagement.Application.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagment.Contracts.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopMana.FD901593.Up2Date
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\refint\ShopManagement.Application.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagement.Application\obj\Debug\net8.0\ref\ShopManagement.Application.dll

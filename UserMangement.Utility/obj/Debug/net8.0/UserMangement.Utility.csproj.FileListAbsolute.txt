@@ -10,3 +10,16 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\o
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\ref\UserMangement.Utility.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\refint\UserMangement.Utility.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserMangement.Utility\obj\Debug\net8.0\ref\UserMangement.Utility.dll

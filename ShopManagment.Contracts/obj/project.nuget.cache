@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwY14R7pQ3I=",
+  "dgSpecHash": "P3mYCdZl4jo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
+  "projectFilePath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagment.Contracts\\ShopManagment.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
