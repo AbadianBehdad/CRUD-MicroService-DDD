@@ -1,0 +1,12 @@
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\bin\Debug\net8.0\Framwork.deps.json
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\bin\Debug\net8.0\Framwork.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\bin\Debug\net8.0\Framwork.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.csproj.AssemblyReference.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.AssemblyInfoInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.AssemblyInfo.cs
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.csproj.CoreCompileInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\refint\Framwork.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\ref\Framwork.dll

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopManagement.Application\ShopManagement.Application.csproj" />
+    <ProjectReference Include="..\ShopManagement.Domain\ShopManagement.Domain.csproj" />
+    <ProjectReference Include="..\ShopManagenment.EFCore\ShopManagenment.EFCore.csproj" />
+    <ProjectReference Include="..\UserManagement.Application\UserManagement.Application.csproj" />
+    <ProjectReference Include="..\UserManagement.Domain\UserManagement.Domain.csproj" />
+    <ProjectReference Include="..\UserManagenet.EFCore\UserManagenet.EFCore.csproj" />
+    <ProjectReference Include="..\UserMangement.Utility\UserMangement.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

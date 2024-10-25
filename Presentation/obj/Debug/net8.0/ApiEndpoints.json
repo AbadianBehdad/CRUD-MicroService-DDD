@@ -1,0 +1,268 @@
+[
+  {
+    "ContainingType": "Presentation.Controllers.AuthenticateController",
+    "Method": "NewToken",
+    "RelativePath": "api/Authenticate/GenerateNewToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.GenereateNewToken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.GenerateNewTokenRespone",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.AuthenticateController",
+    "Method": "Post",
+    "RelativePath": "api/Authenticate/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.LoginCommandRespond",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.CQRSProductController",
+    "Method": "Create",
+    "RelativePath": "api/CQRSProduct/AddProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ShopManagement.Application.CQRS.ProductCommandQuary.Command.SaveProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShopManagement.Application.CQRS.ProductCommandQuary.Command.SaveProductCommandResponde",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.CQRSProductController",
+    "Method": "Get",
+    "RelativePath": "api/CQRSProduct/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShopManagement.Application.CQRS.ProductCommandQuary.Query.GetProductQueryRespond",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.CQRSProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/CQRSProduct/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ShopManagement.Application.CQRS.ProductCommandQuary.Query.GetAllProductQuaryRespond, ShopManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Product/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ShopManagment.Contracts.Product.CreateProduct",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductController",
+    "Method": "EditProduct",
+    "RelativePath": "api/Product/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ShopManagment.Contracts.Product.EditProduct",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/Product/GetALl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ShopManagment.Contracts.Product.ProductViewModel, ShopManagment.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductController",
+    "Method": "Search",
+    "RelativePath": "api/Product/Search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchModel",
+        "Type": "ShopManagment.Contracts.Product.ProductSearchModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ShopManagment.Contracts.Product.ProductViewModel, ShopManagment.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.UserController",
+    "Method": "Add",
+    "RelativePath": "api/User/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.SaveUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.SaveUserCommandRespond",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Presentation.Controllers.UserController",
+    "Method": "UpdateUserName",
+    "RelativePath": "api/User/UpdateUserName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.ChangeUserNameCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserManagement.Application.CQRS.UserCommandQuary.Command.ChangePasswordCommandRespond",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

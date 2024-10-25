@@ -1,0 +1,11 @@
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\bin\Debug\net8.0\ShopManagment.Contracts.deps.json
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\bin\Debug\net8.0\ShopManagment.Contracts.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\bin\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.AssemblyInfoInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.AssemblyInfo.cs
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\refint\ShopManagment.Contracts.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagment.Contracts\obj\Debug\net8.0\ref\ShopManagment.Contracts.dll

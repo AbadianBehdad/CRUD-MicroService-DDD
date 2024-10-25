@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AutoMapper\" />
+    <Folder Include="CQRS\UserCommandQuary\Quary\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserManagement.Domain\UserManagement.Domain.csproj" />
+    <ProjectReference Include="..\UserManagenet.EFCore\UserManagenet.EFCore.csproj" />
+    <ProjectReference Include="..\UserMangement.Utility\UserMangement.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.deps.json
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\bin\Debug\net8.0\UserMangement.Utility.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.AssemblyInfoInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.AssemblyInfo.cs
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\refint\UserMangement.Utility.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.pdb
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\ref\UserMangement.Utility.dll
+C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserMangement.Utility\obj\Debug\net8.0\UserMangement.Utility.csproj.AssemblyReference.cache

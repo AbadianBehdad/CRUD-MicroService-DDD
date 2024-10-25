@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21899C37-B866-4DFF-A12D-9D7908495761}|UserManagement.Application\\UserManagement.Application.csproj|c:\\users\\pcmod\\desktop\\behdad projects\\exercises\\crud t1\\usermanagement.application\\cqrs\\usercommandquary\\command\\genereatenewtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21899C37-B866-4DFF-A12D-9D7908495761}|UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:usermanagement.application\\cqrs\\usercommandquary\\command\\genereatenewtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|c:\\users\\pcmod\\desktop\\behdad projects\\exercises\\crud t1\\presentation\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 661,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Presentation\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Presentation\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:50:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenereateNewToken.cs",
+              "DocumentMoniker": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Application\\CQRS\\UserCommandQuary\\Command\\GenereateNewToken.cs",
+              "RelativeDocumentMoniker": "UserManagement.Application\\CQRS\\UserCommandQuary\\Command\\GenereateNewToken.cs",
+              "ToolTip": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Application\\CQRS\\UserCommandQuary\\Command\\GenereateNewToken.cs",
+              "RelativeToolTip": "UserManagement.Application\\CQRS\\UserCommandQuary\\Command\\GenereateNewToken.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:35:23.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
