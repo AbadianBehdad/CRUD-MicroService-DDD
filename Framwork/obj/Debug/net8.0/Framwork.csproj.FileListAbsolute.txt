@@ -10,3 +10,16 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\refint\Framwork.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\Framwork.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\Framwork\obj\Debug\net8.0\ref\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\bin\Debug\net8.0\Framwork.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\refint\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\Framwork\obj\Debug\net8.0\ref\Framwork.dll

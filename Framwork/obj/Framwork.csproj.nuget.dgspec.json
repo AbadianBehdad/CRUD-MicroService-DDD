@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj": {}
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj": {
+    "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj",
+        "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj",
         "projectName": "Framwork",
-        "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\Framwork.csproj",
-        "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Framwork\\obj\\",
+        "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\Framwork.csproj",
+        "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Framwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,3 +13,19 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagement.Domain\o
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserMana.AF6DAD17.Up2Date
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll

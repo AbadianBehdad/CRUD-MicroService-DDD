@@ -44,7 +44,6 @@ namespace ShopManagenment.EFCore.Migrations
                         .HasColumnType("nvarchar(255)");
 
                     b.Property<long>("Price")
-                        .HasMaxLength(255)
                         .HasColumnType("bigint");
 
                     b.HasKey("Id");

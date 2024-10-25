@@ -19,3 +19,25 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagenment.EFCore\
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagment.Contracts.dll
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagment.Contracts.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.genruntimeconfig.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagenment.EFCore.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagenment.EFCore.runtimeconfig.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagenment.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagenment.EFCore.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagment.Contracts.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\bin\Debug\net8.0\ShopManagment.Contracts.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopMana.367E9631.Up2Date
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\refint\ShopManagenment.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ShopManagenment.EFCore.genruntimeconfig.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\ShopManagenment.EFCore\obj\Debug\net8.0\ref\ShopManagenment.EFCore.dll

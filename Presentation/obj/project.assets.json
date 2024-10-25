@@ -4562,19 +4562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PCMOD\\.nuget\\packages\\": {}
+    "C:\\Users\\behda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Presentation\\Presentation.csproj",
-      "packagesPath": "C:\\Users\\PCMOD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\Presentation\\obj\\",
+      "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Presentation.csproj",
+      "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
+      "outputPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PCMOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4589,26 +4589,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Application\\ShopManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Application\\ShopManagement.Application.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Application\\ShopManagement.Application.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Application\\ShopManagement.Application.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Application\\UserManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Application\\UserManagement.Application.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Application\\UserManagement.Application.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Application\\UserManagement.Application.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Domain\\UserManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagement.Domain\\UserManagement.Domain.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserManagement.Domain.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserManagement.Domain.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagenet.EFCore\\UserManagenet.EFCore.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserManagenet.EFCore\\UserManagenet.EFCore.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\UserManagenet.EFCore.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\UserManagenet.EFCore.csproj"
             },
-            "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserMangement.Utility\\UserMangement.Utility.csproj": {
-              "projectPath": "C:\\Users\\PCMOD\\Desktop\\Behdad Projects\\Exercises\\CRUD T1\\UserMangement.Utility\\UserMangement.Utility.csproj"
+            "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserMangement.Utility\\UserMangement.Utility.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserMangement.Utility\\UserMangement.Utility.csproj"
             }
           }
         }
@@ -4674,7 +4674,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -17,3 +17,23 @@ C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagenet.EFCore\ob
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.pdb
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.genruntimeconfig.cache
 C:\Users\PCMOD\Desktop\Behdad Projects\Exercises\CRUD T1\UserManagenet.EFCore\obj\Debug\net8.0\ref\UserManagenet.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagenet.EFCore.deps.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagenet.EFCore.runtimeconfig.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagenet.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagenet.EFCore.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\Framwork.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagement.Domain.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\UserManagement.Domain.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\bin\Debug\net8.0\Framwork.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.AssemblyInfo.cs
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.sourcelink.json
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserMana.DA84B1BD.Up2Date
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\refint\UserManagenet.EFCore.dll
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.pdb
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\UserManagenet.EFCore.genruntimeconfig.cache
+C:\Project\Asp.net Core\Learning\CRUD-MicroService-DDD\UserManagenet.EFCore\obj\Debug\net8.0\ref\UserManagenet.EFCore.dll
