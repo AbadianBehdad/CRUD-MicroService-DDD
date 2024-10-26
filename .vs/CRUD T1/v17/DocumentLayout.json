@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A90069E5-6988-4002-A4CB-0B5A4F8F6942}|ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\shopmanagenment.efcore\\migrations\\20241025195158_initinthissystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90069E5-6988-4002-A4CB-0B5A4F8F6942}|ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj|solutionrelative:shopmanagenment.efcore\\migrations\\20241025195158_initinthissystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90069E5-6988-4002-A4CB-0B5A4F8F6942}|ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\shopmanagenment.efcore\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90069E5-6988-4002-A4CB-0B5A4F8F6942}|ShopManagenment.EFCore\\ShopManagenment.EFCore.csproj|solutionrelative:shopmanagenment.efcore\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A1C7E48-E4E6-4CD2-97D8-11D70256A6FE}|UserManagenet.EFCore\\UserManagenet.EFCore.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagenet.efcore\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1C7E48-E4E6-4CD2-97D8-11D70256A6FE}|UserManagenet.EFCore\\UserManagenet.EFCore.csproj|solutionrelative:usermanagenet.efcore\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagement.domain\\useragg\\security\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\useragg\\security\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagement.domain\\useragg\\security\\roleperimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\useragg\\security\\roleperimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagement.domain\\useragg\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\useragg\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagement.domain\\useragg\\security\\perimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B61FCD-E249-434D-8BBA-7C7780405D35}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\useragg\\security\\perimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs",
+              "RelativeDocumentMoniker": "UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs",
+              "RelativeToolTip": "UserManagenet.EFCore\\Migrations\\20241026133447_AddPerimissionRoleUSerRoleRolePerimission.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:34:47.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\UserContext.cs",
+              "RelativeDocumentMoniker": "UserManagenet.EFCore\\UserContext.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagenet.EFCore\\UserContext.cs",
+              "RelativeToolTip": "UserManagenet.EFCore\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:23:51.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -30,28 +68,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241025195158_initInthisSystem.cs",
-              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\Migrations\\20241025195158_initInthisSystem.cs",
-              "RelativeDocumentMoniker": "ShopManagenment.EFCore\\Migrations\\20241025195158_initInthisSystem.cs",
-              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\Migrations\\20241025195158_initInthisSystem.cs",
-              "RelativeToolTip": "ShopManagenment.EFCore\\Migrations\\20241025195158_initInthisSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\UserAgg\\Security\\UserRole.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\UserRole.cs",
+              "RelativeToolTip": "UserManagement.Domain\\UserAgg\\Security\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:51:58.891Z",
+              "WhenOpened": "2024-10-26T13:17:36.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopContext.cs",
-              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopContext.cs",
-              "RelativeDocumentMoniker": "ShopManagenment.EFCore\\ShopContext.cs",
-              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\ShopManagenment.EFCore\\ShopContext.cs",
-              "RelativeToolTip": "ShopManagenment.EFCore\\ShopContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RolePerimission.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\RolePerimission.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\UserAgg\\Security\\RolePerimission.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\RolePerimission.cs",
+              "RelativeToolTip": "UserManagement.Domain\\UserAgg\\Security\\RolePerimission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:50:12.064Z",
+              "WhenOpened": "2024-10-26T13:15:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\Role.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\UserAgg\\Security\\Role.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\Role.cs",
+              "RelativeToolTip": "UserManagement.Domain\\UserAgg\\Security\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:13:09.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Perimission.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\Perimission.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\UserAgg\\Security\\Perimission.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Domain\\UserAgg\\Security\\Perimission.cs",
+              "RelativeToolTip": "UserManagement.Domain\\UserAgg\\Security\\Perimission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:01:09.739Z",
               "EditorCaption": ""
             }
           ]
