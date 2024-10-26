@@ -30,7 +30,7 @@ namespace UserManagenet.EFCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("PermissionFlag")
+                    b.Property<string>("PerimissionFlag")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -79,6 +79,10 @@ namespace UserManagenet.EFCore.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("PerimissionId");
+
+                    b.HasIndex("RoleID");
+
                     b.ToTable("rolePerimissions");
                 });
 
@@ -121,7 +125,7 @@ namespace UserManagenet.EFCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("RoleID")
+                    b.Property<int>("RoleId")
                         .HasColumnType("int");
 
                     b.Property<Guid>("UserID")
@@ -165,6 +169,25 @@ namespace UserManagenet.EFCore.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users", (string)null);
+                });
+
+            modelBuilder.Entity("UserManagement.Domain.UserAgg.Security.RolePerimission", b =>
+                {
+                    b.HasOne("UserManagement.Domain.UserAgg.Security.Perimission", "Perimission")
+                        .WithMany()
+                        .HasForeignKey("PerimissionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("UserManagement.Domain.UserAgg.Security.Role", "Role")
+                        .WithMany()
+                        .HasForeignKey("RoleID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Perimission");
+
+                    b.Navigation("Role");
                 });
 
             modelBuilder.Entity("UserManagement.Domain.UserAgg.Security.UserRefreshToken", b =>

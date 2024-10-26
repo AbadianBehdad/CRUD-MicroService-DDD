@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Presentation.CustomAttributes;
 using ShopManagment.Contracts.Product;
+using UserManagement.Domain.UserAgg.Security;
 
 namespace Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class ProductController : ControllerBase
     {
         private readonly IProductApplication _productApplication;
@@ -23,8 +25,9 @@ namespace Presentation.Controllers
 
         }
 
-
         [HttpGet("GetALl")]
+        [AccessControll(Perimission = "GetAll-Product")]
+
         public async Task<List<ProductViewModel>> GetAll() 
         {
             return await _productApplication.GetAll();
