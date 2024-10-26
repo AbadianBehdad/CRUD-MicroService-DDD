@@ -1,4 +1,4 @@
-﻿namespace UserManagement.Domain.UserAgg;
+﻿namespace UserManagement.Domain.UserAgg.Security;
 
 public class UserRefreshToken
 {
@@ -11,7 +11,7 @@ public class UserRefreshToken
         CreationDate = DateTime.Now;
         IsValid = true;
     }
-    public void Invalid() 
+    public void Invalid()
     {
         IsValid = false;
     }
@@ -19,7 +19,7 @@ public class UserRefreshToken
     {
         RefreshToken = refreshToken;
         RefreshTokenTimeout = refreshTokenTimeout;
-        CreationDate =DateTime.Now;
+        CreationDate = DateTime.Now;
         IsValid = true;
     }
 
@@ -29,7 +29,7 @@ public class UserRefreshToken
     public string RefreshToken { get; private set; }
     public int RefreshTokenTimeout { get; private set; }
 
-    public DateTime CreationDate { get;private set; }
+    public DateTime CreationDate { get; private set; }
     public bool IsValid { get; private set; }
 
 

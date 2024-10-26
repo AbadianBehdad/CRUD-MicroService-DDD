@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
 using UserManagement.Domain.UserAgg;
+using UserManagement.Domain.UserAgg.Security;
 using UserManagenet.EFCore;
 
 namespace UserManagement.Application.CQRS.Notifications;

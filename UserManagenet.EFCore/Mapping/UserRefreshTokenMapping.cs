@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using UserManagement.Domain.UserAgg;
+using UserManagement.Domain.UserAgg.Security;
 
 namespace UserManagenet.EFCore.Mapping
 {
