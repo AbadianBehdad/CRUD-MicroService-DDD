@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\presentation\\customattributes\\accesscontrollattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\customattributes\\accesscontrollattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21899C37-B866-4DFF-A12D-9D7908495761}|UserManagement.Application\\UserManagement.Application.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\usermanagement.application\\services\\perimissionservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21899C37-B866-4DFF-A12D-9D7908495761}|UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:usermanagement.application\\services\\perimissionservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2E6A546-2182-444B-BAF6-ACE4C24B3E6A}|Presentation\\Presentation.csproj|c:\\project\\asp.net core\\learning\\crud-microservice-ddd\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:04:24.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:01:03.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PerimissionServie.cs",
               "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Application\\Services\\PerimissionServie.cs",
               "RelativeDocumentMoniker": "UserManagement.Application\\Services\\PerimissionServie.cs",
               "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\UserManagement.Application\\Services\\PerimissionServie.cs",
               "RelativeToolTip": "UserManagement.Application\\Services\\PerimissionServie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T13:59:30.513Z",
+              "WhenOpened": "2024-10-31T22:12:45.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccessControllAttribute.cs",
-              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\CustomAttributes\\AccessControllAttribute.cs",
-              "RelativeDocumentMoniker": "Presentation\\CustomAttributes\\AccessControllAttribute.cs",
-              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\CustomAttributes\\AccessControllAttribute.cs",
-              "RelativeToolTip": "Presentation\\CustomAttributes\\AccessControllAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Project\\Asp.net Core\\Learning\\CRUD-MicroService-DDD\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T13:48:28.908Z",
+              "WhenOpened": "2024-10-31T22:05:47.407Z",
               "EditorCaption": ""
             }
           ]
