@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserManagenet.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+165cade1476c5eed87414fac4eb2c1999dfe50fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d81a02c9a216f3383cbe3cae854ad236079bf58f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserManagenet.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserManagenet.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

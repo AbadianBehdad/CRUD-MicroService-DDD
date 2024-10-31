@@ -28,6 +28,7 @@ builder.Services.Configure<Configs>(builder.Configuration.GetSection("Configs"))
 // Add services to the container.
 builder.Services.AddSwagger();
 builder.Services.AddJWT();
+builder.Services.AddMemoryCache();
 
 
 builder.Services.AddControllers();
